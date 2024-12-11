@@ -2,7 +2,7 @@ export const Home = () => {
   return (
     <div className="h-screen">
       <p>
-        hoge
+        竜平たこ
       </p>
     </div>
   );
